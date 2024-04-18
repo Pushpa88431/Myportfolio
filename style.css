@@ -126,10 +126,7 @@ h2 {
 }
 
 .left {
-  font-family: sans-serif;
-  color: white;
-  font-size: 20px;
-  font-weight: bolder;
+  image-resolution: unset;
 }
 
 #mobilemenu {
